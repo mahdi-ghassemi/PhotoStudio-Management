@@ -1,0 +1,3 @@
+# Photography Studio Management
+
+## DEPRECATED
